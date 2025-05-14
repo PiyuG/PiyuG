@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate software developer with a Master's in Com
 ## 🧰 Tech Stack
 
 **Languages:**  
-`Java` `Python` `SQL` `HTML` `CSS` `JavaScript`
+`Java` `Python` `SQL` `HTML` `CSS` `JavaScript` `C` `C++`
 
 **Java Tools & Frameworks:**  
 `Spring Boot`  `JSP/Servlets`
