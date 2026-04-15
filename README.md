@@ -1,54 +1,72 @@
-# 👋 Hi, I'm Puja Patil
+# 👋 Hi, I'm Puja Patil  
 
-🎯 Java & Python Developer | Full-Stack Web Enthusiast | MCA Graduate
-
-Welcome to my GitHub! I'm a passionate software developer with a Master's in Computer Applications (MCA), skilled in building full-stack web applications and solving real-world problems using Java and Python.
-
----
-
-## 🎓 Education
-
-- 🎓 **Master of Computer Applications (MCA)**  
-  Savitribai Phule Pune University, [2025]
+🎯 **Java Backend Developer | Spring Boot | REST APIs | Microservices (Learning)**  
+🎓 MCA Graduate | Backend-Focused | Open to Java Developer Roles  
 
 ---
 
-## 🚀 About Me
+## 🚀 Backend-Focused Profile  
 
-- 🔭 Worked on **SmartHub** – a comprehensive platform for e-commerce, employee, and delivery management.
-- 🐍 Developing Python utilities and automation scripts for backend operations and data processing.
-- 🌱 Learning **Spring Security**, **REST APIs**, and **Microservices Architecture**.
-- 💡 Passionate about writing clean, maintainable code and delivering scalable systems.
+I am a **Java Backend Developer** with hands-on experience in building **scalable RESTful APIs** using **Spring Boot**. I focus on writing clean, maintainable code and designing backend systems aligned with real-world business requirements.
+
+- ✔️ Strong in **Core Java, OOP, and Backend Development**
+- ✔️ Experience building **REST APIs using Spring Boot**
+- ✔️ Knowledge of **JWT Authentication & Spring Security**
+- ✔️ Familiar with **Microservices Architecture (in progress)**
+- ✔️ Database experience with **MySQL & MongoDB**
+- ✔️ Understanding of **API design, validation, and exception handling**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Backend-Centric)  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,maven,postman,mongodb,python,django" />
+</p>
 
 **Languages:**  
-`Java` `Python` `SQL` `HTML` `CSS` `JavaScript` `C` `C++`
+`Java` `Python` `SQL` `JavaScript`  
 
-**Java Tools & Frameworks:**  
-`Spring Boot`  `JSP/Servlets`
+**Backend:**  
+`Spring Boot` `Spring Security` `REST APIs` `Django`
 
-**Python Tools:**  
- `Django` `Pandas` `NumPy` `Matplotlib`
+**Database:**  
+`MySQL` `MongoDb` 
 
-**Frontend & UI:**  
-`Bootstrap` `JSP` 
-
-**Tools & Platforms:**  
-`Git` `Maven` `MySQL` `Tomcat` `VS Code` `Eclipse` `Postman`
+**Tools:**  
+`Git` `Maven` `Postman`  
 
 
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats  
 
-- 📧 Email: patilpuja1419@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyuG&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=PiyuG&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-> “Programming isn't about what you know; it's about what you can figure out.” – Chris Pine
 
-_Thanks for checking out my profile! Feel free to explore my repositories and connect._ 🚀
+
+
+## 📫 Connect With Me  
+
+- 📧 Email: patilpuja1419@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pujapatil1419  
+
+## 💼 What I’m Looking For  
+
+- Java Backend Developer (Fresher / 0–1 Year)  
+- Spring Boot / API Development Roles  
+- Opportunities to work on **scalable backend systems**
+
+---
+
+## 💬 Developer Mindset  
+
+> I focus on building backend systems that are **scalable, secure, and maintainable**, with clean architecture and real-world applicability.
+
+---
